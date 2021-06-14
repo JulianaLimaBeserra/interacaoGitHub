@@ -39,7 +39,8 @@ footer{
 }
 #pFoo{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  text-align: right;
+  position: relative;
+  left: 610px;
   max-width: 500px;
   padding-right: 160px;
   line-height: 28px;
